@@ -4,11 +4,11 @@
   <img src="https://as1.ftcdn.net/v2/jpg/01/94/93/36/1000_F_194933696_qnk1RLYpUw7k9EcK9pkbATVKsv4eTNV9.jpg">
 </h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=hi+hi+hi+hi!;Enjoy+my+work...&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Why+are+you+here?!;Since+you+are+here,;L`ook+around!&center=true&size=30">
 </h1>
 
 <h5 align="center">
-  <code><a href="https://stackoverflow.com/users/19173222/ariz-ahmed" title="Stack Overflow Profile"><img width="22" src="Images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://stackoverflow.com/users/17558270/mangobirb-99" title="Stack Overflow Profile"><img width="22" src="Images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
 <p align="center">
