@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hey, I'm Ariz Ahmed, a High School student from Australia, who has an interest in all things tech.
+  Hey, definitely Ariz Ahmed, totally not stealing his identity, a High School student from Australia, who has an interest in all things tech.
   <br>
   <br>
   🔬 I'm currently focusing on school-work, assignments and exams
