@@ -4,7 +4,7 @@
   <img src="https://as1.ftcdn.net/v2/jpg/01/94/93/36/1000_F_194933696_qnk1RLYpUw7k9EcK9pkbATVKsv4eTNV9.jpg">
 </h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Why+are+you+here?!;Since+you+are+here,;L`ook+around!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Why+are+you+here?!;Since+you+are+here,;Look+around!&center=true&size=30">
 </h1>
 
 <h5 align="center">
@@ -12,16 +12,14 @@
 </h5>
 <br>
 <p align="center">
-  Hey, definitely Ariz Ahmed, totally not stealing his identity, a High School student from Australia, who has an interest in all things tech.
+  Hi, I am Fedor, A beginner python programmer who loves parrots
   <br>
   <br>
-  🦜 I'm currently focusing on school-work, assignments and exams
+  🦜 Focusing on Assignments
   <br>
-  🦜 I love working with hardware, and learning more about software
+  🦜 I am interested in software and web dev.
   <br>
-  🦜 I’m currently learning more about Machine Learning, Neural Networks and Computer Forensics.
-  <br>
-  🦜 
+  🦜 I’m currently learning about web dev and machine learning
   <br>
   🦜 How to contact me: <a href="mailto: alfimov.fedor@gmail.com">alfimov.fedor@gmail.com</a>
 </p>
@@ -32,14 +30,14 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/clutchkick2207/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=clutchkick2207&theme=react&border=61dafb&hide_border=true" alt="my streak stats" />
+    <a href="https://github.com/mangoparrot/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mangoparrot&theme=react&border=61dafb&hide_border=true" alt="my streak stats" />
     </a>
-    <a href="https://github.com/clutchkick2207/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=clutchkick2207&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" />
+    <a href="https://github.com/mangoparrot/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mangoparrot&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=clutchkick2207&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=mangoparrot&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
