@@ -1,10 +1,10 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=clutchkick2207.clutchkick2207">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=mangoparrot.mangoparrot">
 
 <h1 align="center">
-  <img src="Images/banner.png">
+  <img src="https://as1.ftcdn.net/v2/jpg/01/94/93/36/1000_F_194933696_qnk1RLYpUw7k9EcK9pkbATVKsv4eTNV9.jpg">
 </h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you!;Enjoy+my+work...&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=hi+hi+hi+hi!;Enjoy+my+work...&center=true&size=30">
 </h1>
 
 <h5 align="center">
@@ -15,15 +15,15 @@
   Hey, definitely Ariz Ahmed, totally not stealing his identity, a High School student from Australia, who has an interest in all things tech.
   <br>
   <br>
-  🔬 I'm currently focusing on school-work, assignments and exams
+  🦜 I'm currently focusing on school-work, assignments and exams
   <br>
-  💻 I love working with hardware, and learning more about software
+  🦜 I love working with hardware, and learning more about software
   <br>
-  📚 I’m currently learning more about Machine Learning, Neural Networks and Computer Forensics.
+  🦜 I’m currently learning more about Machine Learning, Neural Networks and Computer Forensics.
   <br>
-  💬 Ask me anything about Volatility3, Autopsy, FastAI, PyTorch, Hardware and GNU/Linux
+  🦜 
   <br>
-  📫 How to contact me: <a href="mailto: ariz.ahmed@wellard.net.au">ariz.ahmed@wellard.net.au</a>
+  🦜 How to contact me: <a href="mailto: alfimov.fedor@gmail.com">alfimov.fedor@gmail.com</a>
 </p>
 
 
@@ -43,10 +43,3 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=clutchkick2207&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<h2 align="center">🎶 What I am Listening to 🎶</h2>
-<p align=center>
-  <div align=center>
-      <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=iiymg17v7sk32ic0fdbtq0xzc&cover_image=true&theme=novatorem&bar_color=5ed7f7&bar_color_cover=false"/>
-    </a>
-  </div>
