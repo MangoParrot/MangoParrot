@@ -4,7 +4,7 @@
   <img src="https://as1.ftcdn.net/v2/jpg/01/94/93/36/1000_F_194933696_qnk1RLYpUw7k9EcK9pkbATVKsv4eTNV9.jpg">
 </h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Why+are+you+here?!;Since+you+are+here,;Look+around!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Github+Readme;Pretty+Cool;!&center=true&size=30">
 </h1>
 
 <h5 align="center">
